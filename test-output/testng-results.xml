@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T15:18:27 IST" name="Suite" finished-at="2022-10-20T15:18:54 IST" duration-ms="27097">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T15:18:27 IST" name="LoginPage" finished-at="2022-10-20T15:18:36 IST" duration-ms="9786">
+      <class name="testcases.LoginPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.LoginPage@1a942c18]" started-at="2022-10-20T15:18:27 IST" name="setup" finished-at="2022-10-20T15:18:35 IST" duration-ms="8319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SignIn()[pri:1, instance:testcases.LoginPage@1a942c18]" started-at="2022-10-20T15:18:35 IST" name="SignIn" finished-at="2022-10-20T15:18:36 IST" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.LoginPage@1a942c18]" started-at="2022-10-20T15:18:36 IST" name="closeBrowser" finished-at="2022-10-20T15:18:36 IST" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.LoginPage -->
+    </test> <!-- LoginPage -->
+    <test started-at="2022-10-20T15:18:27 IST" name="IphoneProduct" finished-at="2022-10-20T15:18:54 IST" duration-ms="27091">
+      <class name="testcases.IphoneProduct">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testcases.IphoneProduct@19e4653c]" started-at="2022-10-20T15:18:27 IST" name="setup" finished-at="2022-10-20T15:18:35 IST" duration-ms="8325" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="iphone()[pri:1, instance:testcases.IphoneProduct@19e4653c]" started-at="2022-10-20T15:18:35 IST" name="iphone" finished-at="2022-10-20T15:18:53 IST" duration-ms="18377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphone -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.IphoneProduct@19e4653c]" started-at="2022-10-20T15:18:53 IST" name="closeBrowser" finished-at="2022-10-20T15:18:54 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.IphoneProduct -->
+    </test> <!-- IphoneProduct -->
+  </suite> <!-- Suite -->
+</testng-results>
