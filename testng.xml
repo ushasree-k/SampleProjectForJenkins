@@ -10,12 +10,12 @@
 		</classes>
 	</test>
 	
-	<test thread-count="2" name="IphoneProduct">
+	<!-- <test thread-count="2" name="IphoneProduct">
 	<parameter name="browser" value="chrome"></parameter>
 		<classes>
 			<class name="testcases.IphoneProduct" />
 		</classes>
-	</test>
+	</test> -->
 	
 	
 
